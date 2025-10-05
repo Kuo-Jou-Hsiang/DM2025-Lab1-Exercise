@@ -11083,6 +11083,8 @@ obvious:24
 teach:24
 head:24
 guild:24
+mmalt:24
+mmalt	guild:24
 specifically:24
 natural:24
 basic:24
@@ -11113,6 +11115,7 @@ logic:25
 guess:25
 sorry:25
 disagree:25
+friend:25
 took:25
 became:25
 cases:25
@@ -11163,7 +11166,6 @@ newsgroup:27
 asking:27
 aren:27
 statements:27
-gave:27
 understood:27
 almost:27
 dept:28
@@ -11184,6 +11186,7 @@ reasons:28
 anybody:28
 problems:29
 died:29
+reject:29
 usually:29
 beginning:29
 suspect:29
@@ -11198,10 +11201,7 @@ wouldn:29
 intended:30
 taking:30
 unless:30
-parts:30
-parts	provide:9
 form:31
-claims:31
 provide:31
 simple:31
 line:32

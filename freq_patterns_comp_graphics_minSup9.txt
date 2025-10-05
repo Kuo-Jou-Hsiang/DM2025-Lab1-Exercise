@@ -60,7 +60,6 @@ rchland	muchado:9
 vnet	rchland	muchado:9
 hernandez	rchland	muchado:9
 vnet	hernandez	rchland	muchado:9
-section:9
 jeff:9
 left:9
 readers:9
@@ -488,7 +487,6 @@ ready:12
 alone:12
 regular:12
 power:12
-nz:12
 awful:12
 awful	herringshaw:10
 feel	awful	herringshaw:10
@@ -29206,6 +29204,7 @@ vnet:13
 san:13
 put:13
 richard:13
+converter:13
 down:13
 instead:13
 less:13
@@ -33344,6 +33343,10 @@ proposed	herringshaw	tdawson:11
 personally	proposed	herringshaw	tdawson:11
 proposed	feel:12
 personally	proposed	feel:12
+proposed	tdawson:12
+proposed	tdawson	feel:11
+personally	proposed	tdawson	feel:11
+proposed	tdawson	personally:12
 proposed	forum:12
 proposed	forum	tdawson:11
 personally	proposed	forum	tdawson:11
@@ -33368,10 +33371,6 @@ proposed	learn	forum:12
 personally	proposed	learn	forum:12
 feel	proposed	learn	forum:12
 personally	feel	proposed	learn	forum:12
-proposed	tdawson:12
-proposed	tdawson	feel:11
-personally	proposed	tdawson	feel:11
-proposed	tdawson	personally:12
 proposed	personally:13
 products:15
 perhaps:15
@@ -33388,15 +33387,16 @@ rate	processor:9
 deal:16
 home:16
 nova:16
-page:16
 takes:16
 corp:16
+further:16
 thought:16
 computers:16
 nothing:16
 price:16
 sci:16
 gives:16
+paper:16
 fairly:16
 keep:16
 determine:16
@@ -33444,6 +33444,7 @@ learn	personally:13
 learn	forum:13
 personally	learn	forum:13
 haven:16
+studio:16
 texas:16
 pd:17
 sciences:17
@@ -33461,6 +33462,7 @@ looks:17
 simply:17
 bitnet:17
 helps:17
+thus:17
 forum:17
 forum	tdawson:11
 feel	forum	tdawson:11
@@ -33494,6 +33496,7 @@ tdawson	personally	feel	herringshaw	forum:10
 herringshaw	personally:11
 tdawson	herringshaw	personally:11
 herringshaw	tdawson:17
+test:17
 31:17
 asked:17
 necessarily:17
@@ -33519,7 +33522,6 @@ tdawson:18
 tdawson	feel:11
 personally	tdawson	feel:11
 tdawson	personally:12
-40:18
 opinions:18
 times:19
 significance:19
@@ -33551,7 +33553,6 @@ rumours:21
 wondering:21
 knows:21
 services:21
-open:21
 long:21
 description:21
 recommend:21
@@ -33564,11 +33565,10 @@ exactly:22
 apr:22
 personally:22
 personally	feel:13
-special:22
 wrong:23
 needs:23
 life:24
 ideas:24
 feel:24
 tried:24
-done:25
+maybe:26

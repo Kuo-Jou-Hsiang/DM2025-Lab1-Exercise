@@ -2537,6 +2537,22 @@ file:13
 study:13
 intellectual:13
 walla:13
+walla	gmt:9
+college	walla	gmt:9
+healta	walla	gmt:9
+healy	walla	gmt:9
+date	walla	gmt:9
+college	healta	walla	gmt:9
+college	healy	walla	gmt:9
+college	date	walla	gmt:9
+healta	healy	walla	gmt:9
+healta	date	walla	gmt:9
+healy	date	walla	gmt:9
+college	healta	healy	walla	gmt:9
+college	healta	date	walla	gmt:9
+college	healy	date	walla	gmt:9
+healta	healy	date	walla	gmt:9
+college	healta	healy	date	walla	gmt:9
 walla	date:10
 college	walla	date:10
 healta	walla	date:10
@@ -2670,8 +2686,8 @@ type:14
 basic:14
 absolutely:14
 effort:14
-effort	dan:9
 effort	became:9
+effort	dan:9
 definitions:15
 knowing:15
 shows:15
@@ -2739,6 +2755,14 @@ including:15
 came:15
 continue:15
 p00261:15
+p00261	gmt:9
+psilink	p00261	gmt:9
+knowles	p00261	gmt:9
+date	p00261	gmt:9
+psilink	knowles	p00261	gmt:9
+psilink	date	p00261	gmt:9
+knowles	date	p00261	gmt:9
+psilink	knowles	date	p00261	gmt:9
 p00261	date:13
 psilink	p00261	date:13
 knowles	p00261	date:13
@@ -2926,6 +2950,10 @@ views:16
 lloyd:16
 rape:16
 knowles:16
+knowles	gmt:9
+psilink	knowles	gmt:9
+date	knowles	gmt:9
+psilink	date	knowles	gmt:9
 knowles	date:13
 psilink	knowles	date:13
 knowles	psilink:15
@@ -2942,6 +2970,7 @@ princeton:16
 princeton	soc:10
 acceptable:16
 10:16
+10	gmt:9
 involved:16
 believed:17
 biblical:17
@@ -3225,6 +3254,8 @@ uucp	ap	d012s658:16
 irrelevant:17
 consequences:17
 psilink:17
+psilink	gmt:9
+date	psilink	gmt:9
 psilink	date:13
 fairly:17
 told:17
@@ -3263,7 +3294,6 @@ cheers	private	ksand	alink:18
 cheers	activities	ksand	alink:18
 private	activities	ksand	alink:18
 cheers	private	activities	ksand	alink:18
-court:18
 decide:18
 individual:18
 pointed:18
@@ -3287,14 +3317,26 @@ ignorance:18
 1993apr15:18
 require:18
 healta:18
+healta	gmt:10
+healta	gmt	college:9
 healta	date:10
-college	healta	date:10
+healta	date	gmt:9
+college	healta	date	gmt:9
+healta	date	college:10
 healta	college:12
 healy:18
+healy	gmt:10
+healy	gmt	college:9
+healta	healy	gmt	college:9
+healy	gmt	healta:10
 healy	date:10
-healta	healy	date:10
-college	healy	date:10
-healta	college	healy	date:10
+healy	date	gmt:9
+healta	healy	date	gmt:9
+college	healy	date	gmt:9
+healta	college	healy	date	gmt:9
+healy	date	healta:10
+healy	date	college:10
+healta	healy	date	college:10
 healy	college:12
 healta	healy	college:12
 healy	healta:18
@@ -4460,6 +4502,7 @@ surely:22
 asd:22
 asd	fido:22
 93:22
+93	gmt:10
 ignore:22
 won:22
 open:22
@@ -4525,8 +4568,11 @@ until:24
 reference:24
 college:24
 college	date:10
+college	date	gmt:9
+college	gmt:11
 wish:24
 message:24
+message	gmt:9
 talk:24
 wonder:24
 obvious:24
@@ -4624,5 +4670,7 @@ deleted:30
 comes:30
 getting:30
 date:31
+date	gmt:19
 stay:32
 snm6394:32
+gmt:34

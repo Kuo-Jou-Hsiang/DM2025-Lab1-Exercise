@@ -8547,8 +8547,8 @@ guest	dying	9760	241:9
 408	dying	9760	241:9
 guest	408	dying	9760	241:9
 fred:12
-fred	action:9
 fred	means:9
+fred	action:9
 fred	international:9
 totally:12
 white:12
@@ -9052,6 +9052,7 @@ absurd	wishes	claire	eau	wi	whoever	philosopher:11
 patently	wishes	claire	eau	wi	whoever	philosopher:11
 absurd	patently	wishes	claire	eau	wi	whoever	philosopher:11
 gives:12
+gives	approach:9
 reasonable:12
 att:12
 bellcore:12
@@ -9133,7 +9134,6 @@ issues:12
 returned:12
 1988:12
 image:12
-rose:12
 physics:12
 factors:12
 feeling:13
@@ -9904,6 +9904,7 @@ reduce:20
 beyond:20
 lost:20
 areas:20
+areas	approach:9
 appears:20
 therefore:20
 add:20
@@ -9917,6 +9918,9 @@ future:20
 nor:20
 internal:20
 hear:20
+review:20
+review	paper:9
+review	single:10
 guess:20
 decided:20
 along:21
@@ -9930,6 +9934,7 @@ healthy:21
 special:21
 becomes:21
 testing:21
+testing	approach:9
 directly:21
 disclaimer:21
 28:21
@@ -9962,17 +9967,18 @@ wasn:23
 mentioned:23
 generally:23
 advance:23
-answer:24
 unfortunately:24
 newsreader:24
 extremely:24
 took:24
 below:24
 aren:24
+approach:24
 chemical:24
 history:24
 simply:25
 possibly:25
+completely:25
 communications:25
 communications	means:10
 treating:25
@@ -9984,11 +9990,11 @@ seeing:25
 appreciate:25
 needed:25
 single:25
-simple:26
 saw:26
 anybody:26
 1993apr15:26
 means:27
+haven:27
 happen:27
 originator:27
 came:29
