@@ -8572,8 +8572,6 @@ table:12
 risks:12
 steroid:12
 eau:12
-eau	wisconsin:11
-claire	eau	wisconsin:11
 eau	absurd:11
 eau	absurd	wisconsin:10
 claire	eau	absurd	wisconsin:10
@@ -8602,6 +8600,8 @@ eau	wishes	patently:11
 claire	eau	wishes	patently:11
 absurd	eau	wishes	patently:11
 claire	absurd	eau	wishes	patently:11
+eau	wisconsin:11
+claire	eau	wisconsin:11
 eau	claire:12
 philosopher:12
 philosopher	wisconsin:10
